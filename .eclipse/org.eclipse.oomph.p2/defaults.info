@@ -1,4 +1,0 @@
-#P2 clients store their default bundle pool locations here
-#Tue Jul 29 22:32:31 IST 2025
-org.eclipse.oomph.setup.ui=C\:\\Users\\CHINNA\\.p2\\pool
-org.eclipse.oomph.setup.ui\:agent=C\:\\Users\\CHINNA\\.p2
